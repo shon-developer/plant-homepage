@@ -7,8 +7,8 @@
 
 ## mobile screen
 
-![screenshot1](./Screenshot1.png)
+![screenshot1](./image1.png)
 
 ## large screen
 
-![screenshot2](./Screenshot2.png)
+![screenshot2](./image2.png)
